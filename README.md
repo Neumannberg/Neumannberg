@@ -3,12 +3,12 @@
 #Beginner
 So here I'm trying to learn this website,I'm trying to write in a Markdown style
 
-##This should be a sencond title
-###Three
-####Four
-#####Five
-######Six
-#######This should be no special style 
+## This should be a sencond title
+### Three
+#### Four
+##### Five
+###### Six
+####### This should be no special style 
 **粗体文本** 或 __粗体__
 *斜体文本* 或 _斜体_
 ***粗斜体*** 或 ___粗斜体___
