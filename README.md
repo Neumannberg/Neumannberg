@@ -52,6 +52,61 @@ function hello() {
 | 李四 | 30   | 上海 |
 
 Thankyou my AI bro
+
+
+**这是粗体文本**
+*这是斜体文字*
+***这是粗斜体组合***
+~~这是删除效果~~
+
+> 这是一个引用块，用于强调内容或者引用他人话语
+> 引用模块可以跨越多行
+> 并且支持**嵌套其他格式**
+
+创建购物清单：
+- 🍎水果
+- -苹果
+- -香蕉
+- -橙子
+- 🥦蔬菜
+- -胡萝卜
+- -西红柿
+
+软件开发步骤：
+1.需求分析
+2.技术设计
+3.编码实现
+4.测试验证
+5.部署上线
+
+代码块:
+'javascript'
+'function greet(name) {
+  console.log('Hello, ${name}!');
+  return true;
+}'
+
+有用的资源：
+[Markdown 官方指南](https://www.markdownguide.org/)
+[Github 文档](https://www.markdownguide.org/)
+[https://via.placeholder.com/150x50/4285f4/ffffff?text=Placeholder+Image](https://via.placeholder.com/150x50/4285f4/ffffff?text=Placeholder+Image)
+
+第四部分: 表格创建
+练习 4.1 - 基础表格
+| 语言 | 难度 | 流行度 | 备注 |
+| ---- | ---- | ----- | ---- |
+| Python | ⭐⭐ | ⭐⭐⭐⭐⭐ | 人工智能首选 |
+| Javascript | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | 网页开发必备 |
+| Rust | ⭐⭐⭐⭐ | ⭐⭐⭐ | 系统级编程 |
+
+练习4.2 - 对齐表格
+
+| 左对齐 | 居中对齐 | 右对齐 |
+| ----   | ------- | ------ |
+| 文本左 | 文本中 | 文本右 |
+| 数据左 | 数据中 | 数据右 |
+
+
 <!--
 **Neumannberg/Neumannberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
