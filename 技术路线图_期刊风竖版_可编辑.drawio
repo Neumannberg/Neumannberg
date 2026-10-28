@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Native diagram conversion" compressed="false">
   <diagram id="journal-portrait" name="技术路线图（期刊风竖版）">
-    <mxGraphModel dx="2345" dy="1451" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="1500" pageHeight="2450" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1124" dy="695" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="1500" pageHeight="2450" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" value="技术路线图" />
@@ -1117,7 +1117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WFrZwqaU-FdnKVetBNny-67" connectable="0" parent="grp__hand_panel" style="group" value="" vertex="1">
-          <mxGeometry height="141.4347826087" width="315" x="28.999999999999986" y="62.9952173913" as="geometry" />
+          <mxGeometry height="141.4347826087" width="315" x="28.999999999999986" y="70.9952173913" as="geometry" />
         </mxCell>
         <mxCell id="hand_dimension" parent="WFrZwqaU-FdnKVetBNny-67" style="html=1;shadow=0;glass=0;sketch=0;fillColor=none;strokeColor=none;strokeWidth=0;fontColor=#000000;fontFamily=Microsoft YaHei;fontSize=26;fontStyle=0;align=center;verticalAlign=middle;spacing=0;spacingTop=0;spacingBottom=0;spacingLeft=0;spacingRight=0;whiteSpace=nowrap;overflow=visible;labelBackgroundColor=none;labelBorderColor=none;movable=1;resizable=1;rotatable=1;editable=1;deletable=1;locked=0;pointerEvents=1;connectable=1;shape=rectangle;rounded=0;" value="&lt;div style=&quot;white-space:pre;line-height:1.08;&quot;&gt;&lt;span style=&quot;font-family:&#39;Microsoft YaHei&#39;;color:#000000;font-weight:normal;font-style:normal&quot;&gt;320维统计表征&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="29" width="315" y="112.4347826087" as="geometry" />
